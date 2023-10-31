@@ -16,6 +16,9 @@ function CustomNavbar() {
               Products
             </Link>
             <Link to="/Restaurant">Restaurant</Link>
+            <Link to="/" className="px-5">
+              Home
+            </Link>
           </Nav>
         </Navbar.Collapse>
       </Container>
